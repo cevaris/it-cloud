@@ -1,0 +1,50 @@
+Notes
+
+Personal one-to-one hands on examples
+- Learn how to setup your computer for development
+- Learn Java, Ruby, Python
+- Learn Object Oriented Programming
+- Learn how to user Eclipse
+- Enjoy the excitement of actually working products, do not want to waste thousands of dollars on school or coding camps?
+- Just use the book for examples???
+
+Set up website
+- PHP
+- Django
+- Rails
+
+Add Features to website
+- Add Email page
+- Add Google Analytics
+- Google Ads
+- Add User Authentication
+- Profile images
+- Social, Twitter/Facebook
+
+Configuration
+- How to automate, Puppet, Ansible, Chef, etc...
+
+Q&A Report
+- Code Evaluation
+- Stress test
+
+
+Business Email Setup
+- We create and manage emails for new co-workers with your own custom domain name.
+Domain Registration
+- Register your own custom domain name. We can help come up with one for you.
+Web App hosting
+- Got some code, we will manage the hosting for you.
+Phone Management
+- Keep in touch with all your customers with your own custom business phone number.
+IT Support
+- Video, Email, Phone, and Chat conferencing via IT Support from a real person.
+Social Media Management
+- Add social media to market your brand.
+Code Evaluation Report
+- Know the actual value of your code. Get your code evaluated with a detailed report, including suggestions for improvement.
+File Backups
+- Back up your computer or website.
+
+
+
