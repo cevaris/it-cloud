@@ -1,5 +1,8 @@
 Notes
 
+Sync site with AWS
+s3cmd put --recursive --rexclude "^\.git"  ./ s3://www.vaportech.co
+
 Personal one-to-one hands on examples
 - Learn how to setup your computer for development
 - Learn Java, Ruby, Python
