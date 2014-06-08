@@ -2,6 +2,7 @@ Notes
 
 Sync site with AWS
 s3cmd put --recursive --rexclude "^\.git"  ./ s3://www.vaportech.co
+s3cmd setacl s3://www.vaportech.co --acl-public --recursive
 
 Personal one-to-one hands on examples
 - Learn how to setup your computer for development
